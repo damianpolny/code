@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="19.998934"
+   height="19.997458"
+   viewBox="0 0 19.998933 19.997457"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="plus"
+     transform="matrix(0.978,-0.208,0.208,0.978,-0.11540444,2.1201315)">
+    <rect
+       id="background"
+       width="20"
+       height="20"
+       fill="none"
+       x="0"
+       y="0" />
+    <g
+       id="Dribbble-Light-Preview"
+       transform="rotate(12.088691,10.016932,1.6725644)">
+      <g
+         id="icons"
+         transform="rotate(-0.16653957,9.9992846,10.000001)">
+        <path
+           id="arrow_left-_350_"
+           data-name="arrow_left-[#350]"
+           d="m 94,6499 -1.435,-1.393 7.607,-7.607 H 84 v -2 h 16.172 L 92.586,6480.414 94,6479 l 10,10 -10,10"
+           transform="translate(-84,-6479)"
+           fill="#202020"
+           fill-rule="evenodd" />
+      </g>
+    </g>
+  </g>
+</svg>
