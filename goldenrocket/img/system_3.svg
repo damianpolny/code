@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="260" height="260" viewBox="0 0 260 260">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_85" data-name="Rectangle 85" width="260" height="260" fill="rgba(0,0,0,0)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_41" data-name="Group 41" opacity="0.3">
+    <g id="Group_40" data-name="Group 40" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <circle id="Ellipse_15" data-name="Ellipse 15" cx="45.384" cy="45.384" r="45.384" transform="translate(82.61 86.621)" fill="rgba(0,0,0,0)" stroke="#fff" stroke-width="1"/>
+      <path id="Path_739" data-name="Path 739" d="M30.4,108.852a59.323,59.323,0,1,1,114.532-21.7" transform="translate(42.375 44.85)" fill="rgba(0,0,0,0)" stroke="#fff" stroke-width="1"/>
+      <line id="Line_18" data-name="Line 18" x1="258.154" y2="258.154" transform="translate(0.923 0.923)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_19" data-name="Line 19" x1="89.643" y2="89.643" transform="translate(27.97 125.547)" fill="none" stroke="#fff" stroke-width="1"/>
+      <path id="Path_740" data-name="Path 740" d="M82.886,58.656A6.891,6.891,0,1,1,76,51.766a6.89,6.89,0,0,1,6.89,6.89" transform="translate(111.314 83.386)" fill="#fff"/>
+      <path id="Path_741" data-name="Path 741" d="M90.965,66.625A59.13,59.13,0,0,1,49.025,84" transform="translate(78.971 107.322)" fill="rgba(0,0,0,0)" stroke="#fff" stroke-width="1"/>
+      <path id="Path_742" data-name="Path 742" d="M76.717,64.079a4.09,4.09,0,1,1-4.091-4.091,4.091,4.091,0,0,1,4.091,4.091" transform="translate(110.402 96.631)" fill="#fff"/>
+      <line id="Line_20" data-name="Line 20" x2="32.842" y2="32.842" transform="translate(183.028 36.121)" fill="none" stroke="#fff" stroke-width="1"/>
+      <path id="Path_743" data-name="Path 743" d="M92.409,3l17.67,17.67Z" transform="translate(148.856 4.835)" fill="rgba(0,0,0,0)" stroke="#fff" stroke-width="1"/>
+      <line id="Line_21" data-name="Line 21" x2="32.842" y2="32.842" transform="translate(18.494 191.823)" fill="none" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
